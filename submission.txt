@@ -1,0 +1,29 @@
+After completing the assignment, be sure to push to Github and Heroku.
+Please answer the questions in this text file and submit it to I-Learn.
+
+1. Copy and paste the URL for your web application (e.g., Heroku):
+    No Heroku deploy
+2. Copy and paste the URL for your source code repository (e.g., GitHub):
+    https://github.com/rdavis0/CSE341-08-Prove-REST
+3. Briefly list and describe the elements of the application that are functioning.
+    - Created a RESTful GET API call that returns profesisonal data
+    - Front end populates data returned by the GET
+
+4. Briefly describe any pieces of the assignment that are not yet working correctly.
+    None
+
+5. Briefly describe the "coolest" thing you learned while completing this assignment.
+    I understand the value of internal API calls now, and how you can use it to have one method of retrieving, saving, or otherwise modifying data that can be used by multiple clients or interfaces, such as a website, an app, a bot, or other software. Really looking forward to applying this in my personal projects.
+
+6. If you could change this assignment to be more effective or helpful, what would you change?
+    The instructions could have been a lot more detailed.
+
+7. Please select the category you feel best describes your assignment:
+   1 - Some attempt was made
+   2 - Developing, but significantly deficient
+   3 - Slightly deficient, but still mostly adequate
+   4 - Meets requirements
+   **5 - Shows creativity and excels above and beyond requirements
+
+8. Provide a brief justification (1-2 sentences) for selecting that category.
+    It took a substantial amount of creativity and work to get from the vague requirements to an actual implementation 😄
